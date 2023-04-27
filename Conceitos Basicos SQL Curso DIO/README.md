@@ -1,5 +1,5 @@
-#Conceitos B·sicos sobre o uso do SQL
+# Conceitos B√°sicos sobre o uso do SQL
 
-- ExplicaÁ„o e exemplificaÁ„o dos conceitos b·sicos sobre o uso do SQL 
+- Explica√ß√£o e exemplifica√ß√£o dos conceitos b√°sicos sobre o uso do SQL 
 
-- UtilizanÁ„o das clausulas - INNER JOIN, RIGHT/LEFT OUTER JOIN, UNION, WHERE, SELECT * FROM, SELECT, AS, ON.
+- Utilizan√ß√£o das clausulas - INNER JOIN, RIGHT/LEFT OUTER JOIN, UNION, WHERE, SELECT * FROM, SELECT, AS, ON, INSERT INTO.
