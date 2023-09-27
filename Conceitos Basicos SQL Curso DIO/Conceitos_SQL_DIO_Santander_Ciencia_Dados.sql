@@ -320,7 +320,17 @@ INNER JOIN reservas rs
 ON us.id = rs.id_usuario
 WHERE nome = "Maria";
 
-
 CREATE INDEX idx_nome ON usuarios (nome);
 
 EXPLAIN SELECT * FROM usuarios WHERE nome = "Maria";
+
+
+-- Substituir retornos de informações solicitadas em uma Query
+
+SELECT FirstName,
+	CASE
+		WHEN sex = "M" THEN "Masculino"
+		WHEN sex = "F" THEN "Feminino"
+		ELSE sex
+		END AS Genero
+	FROM Funcionarios e;
