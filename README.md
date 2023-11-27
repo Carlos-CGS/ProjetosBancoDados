@@ -1,4 +1,4 @@
-# Projetos Desenvolvidos Voltados a Banco de Dados
+# Projetos Desenvolvidos sobre Banco de Dados
 
 ✅[Conceitos Básicos do uso do NoSQL - Banco de Dados Não Relacional](https://github.com/Carlos-CGS/ProjetosBancoDados/tree/main/Conceitos%20Basicos%20NoSql%20-%20Bootcamp%20DIO) | Explicação e exemplificação dos conceitos básicos do uso da linguagem NoSQL.
 
